@@ -13,6 +13,9 @@ then
 	 grep 'g.t' $file 
 	fi
 else
+
 	echo "file not exist"
 fi
+
+
 
